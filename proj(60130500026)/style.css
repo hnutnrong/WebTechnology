@@ -1,0 +1,163 @@
+#header{
+	font-size: 20px;
+ 	font-family: 'Bowlby One SC', cursive;
+	
+}
+
+#nut{
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 1.3em;
+}
+
+
+h2{
+	font-size: 1.6em;
+	font-family: 'Pridi', serif;
+	margin-top: 3ex;
+
+}
+
+#content{
+	font-size: 1.6em;
+	font-family: 'Pridi', serif;
+	margin-top: 2ex;
+}
+
+#colorr{
+	background-color: #DDDDDD;
+}
+
+#bgaddress{
+	background-image: url("images/bgad.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+		background-size: 100% 100%,auto;
+		background-attachment: fixed;
+}
+
+#bgregis{
+	background-image: url("images/kanyee.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+		background-size: 100% 100%,auto;
+		background-attachment: fixed;
+		
+}
+#header2{
+	background-color: grey;
+	background-repeat: no-repeat;
+	background-position: center;
+		background-size: 100% 100%,auto;
+		background-attachment: fixed;
+		font-family: 'Bowlby One SC', cursive;
+		
+}
+
+
+
+#map{
+	margin-top: 2ex;
+}
+p{
+	font-size: 1.7em;
+	
+}
+
+
+
+#content2{
+	font-family: 'Pridi', serif;
+}
+
+td{
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: 'Pridi', serif;
+	
+
+}
+
+
+#c1{
+	margin-top: 5ex;
+}
+
+#c2{
+	margin-top: 5ex;
+}
+
+#c3{
+	margin-top: 5ex;
+}
+
+#c4{
+	margin-top: 5ex;
+}
+#c5{
+	margin-top: 5ex;
+}
+#c6{
+	margin-top: 5ex;
+}
+#c7{
+	margin-top: 5ex;
+}
+#c8{
+	margin-top: 5ex;
+}
+#c9{
+	margin-top: 5ex;
+}
+#c10{
+	margin-top: 5ex;
+}
+#c11{
+	margin-top: 5ex;
+}
+#c12{
+	margin-top: 5ex;
+}
+
+
+#login{
+	margin-left: 135ex;
+	margin-top: 2ex;
+}
+
+#source1{
+	font-size: 1.2em;
+	font-family: 'Pridi', serif;
+	margin-top: 5ex;
+}
+
+#source2{
+	font-size: 1.2em;
+	font-family: 'Pridi', serif;
+	margin-top: 5ex;
+}
+
+
+#source3{
+	font-size: 1.2em;
+	font-family: 'Pridi', serif;
+	margin-top: 5ex;
+}
+#source4{
+	font-size: 1.2em;
+	font-family: 'Pridi', serif;
+	margin-top: 5ex;
+}
+#fix{
+	margin-top: 1ex;
+	margin-left: 24ex;
+}
+
+#last{
+	margin-top: 8ex;
+	margin-left: 12ex;
+	font-size: 1.5em;
+	font-family: 'Pridi', serif;
+}
+#content2{
+	margin-top: 2ex;
+}
